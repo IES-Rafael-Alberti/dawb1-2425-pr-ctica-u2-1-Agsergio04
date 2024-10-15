@@ -1,4 +1,3 @@
-
 COMANDOS = ["compra", "venta", "saldo", "reset", "fin"]
 MENSAJE_ERROR = "*ERROR* Entrada inválida"
 
